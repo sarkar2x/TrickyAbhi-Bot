@@ -5,7 +5,7 @@
 
 <h1 align="center"><b>TrickyAbhi-Bot</b></h1>
 
-# <p align="center"><a href="https://github.com/herox-xd/TrickyAbhi-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=herox-xd&show_icons=true&theme=dracula&hide_border=true&repo=TrickyAbhi-Bot"></a></p>
+# <p align="center"><a href="https://github.com/nirbhay1664/TrickyAbhi-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=herox-xd&show_icons=true&theme=dracula&hide_border=true&repo=TrickyAbhi-Bot"></a></p>
 <p align="center">
     
     
